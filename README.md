@@ -18,8 +18,8 @@ While skulpt is used mostly as a language/runtime for beginners. It's internals 
 [MIT](http://opensource.org/licenses/MIT) and [PSF v2](http://opensource.org/licenses/PythonSoftFoundation.php)
 
 ##Mailinglists
-[Google groups](https://groups.google.com/forum/#!forum/skulpt)
-[Github issues](https://github.com/skulpt/skulpt/issues?state=open)
+* [Google groups](https://groups.google.com/forum/#!forum/skulpt)
+* [Github issues](https://github.com/skulpt/skulpt/issues?state=open)
 
 ##Mentors 
 I assume Brad and Scott will be the mentors. 
