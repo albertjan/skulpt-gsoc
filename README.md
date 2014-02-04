@@ -7,8 +7,8 @@ Skulpt is a python compiler written in javascript. It's mainly used for educatiu
 
 The project administrators are: 
 
-* Brad Miller
-* Scott Rixner
+* Brad Miller (@bnmnetp)
+* Scott Rixner (@rixner)
 
 ##Why?
 
