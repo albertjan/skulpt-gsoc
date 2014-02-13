@@ -38,6 +38,9 @@ part of the standard library.
 
 6. Expand the skulpt standard library to include more modules from the CPython standard library.  So far we have math, random, turtle, time (partial) random (partial) urllib (partial) unittest, image, DOM (partial) and re (partial).  Any of the partial modules could be completed, or many other CPython modules could be added.
 
+### Skills Required
+
+Each of the projects above will require that the student knows both Python and Javascript.  Students should also be familiar with github.
 
 
 ##Licence
@@ -49,8 +52,7 @@ part of the standard library.
 
 ##Mentors 
 
-* Brad Miller
-* Scott Rixner
+* Brad Miller  (Luther College)
+* Scott Rixner (Rice University)
+* Albert-Jan Pieter Nijburg
 
-##Disappearing students
-We'll hunt them down.
