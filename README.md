@@ -23,10 +23,7 @@ Students would also be contributing to the efforts of computer science education
 ## Ideas List
 
 1.  Change the execution model so that each line/step is interruptible.
-I know that others have given this some thought, and I recall that Scott
-has some real reservations about what it might do for performance, but
-if each line didn't lock up the browser for more than a line I think
-that would have some benefit.
+Currently, skulplt runs an entire python program from beginning to end.  We have an interrupt timer in place to prevent programs from running more than 30 seconds, during that thirty seconds, the browser is locked up.  Over time we have had various suggestions on how to restructure the main interpreter so that the program could be interrupted after each line.  This is an advanced project, that would need a lot of testing and a lot of Javascript skill to make sure that we do not sacrifice too much performance for the gain of interruptability.
 
 2.  Implement the hooks for a debugger. This may be a half step towards
 1 or may be in a completely different direction, but allowing students
