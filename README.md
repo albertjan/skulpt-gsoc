@@ -12,7 +12,7 @@ The project administrators are:
 
 ##Why?
 
-While skulpt is used mostly as a language/runtime for beginners. It's internals are a very good way to learn how compilers work. Students who would help us over the summer would definitelly learn a lot, as they are guided by a team that teaches the whole year through. Next to teaching students about compilers and open source software. It's also benefitial to the project itself. There are several big features waiting to be implemented.
+While skulpt is used mostly as a language/runtime for beginners. It's internals are a very good way to learn how compilers and run-time systems work. Students who would help us over the summer would definitelly learn a lot, as they are guided by a team that teaches the whole year through. Next to teaching students about compilers and open source software.  The work will also be beneficial to the project, as we are a small team and there are several interesting features that are waiting to be implemented.
 
 ##Licence
 [MIT](http://opensource.org/licenses/MIT) and [PSF v2](http://opensource.org/licenses/PythonSoftFoundation.php)
@@ -22,7 +22,9 @@ While skulpt is used mostly as a language/runtime for beginners. It's internals 
 * [Github issues](https://github.com/skulpt/skulpt/issues?state=open)
 
 ##Mentors 
-I assume Brad and Scott will be the mentors. 
+
+* Brad Miller
+* Scott Rixner
 
 ##Disappearing students
 We'll hunt them down.
