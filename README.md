@@ -3,7 +3,7 @@ Skulpt Google Summer of Code application
 
 ##Organization
 
-Skulpt is a python compiler written in javascript. It's mainly used for educatiuonal purposes, it's being used by two universities, Rice and Luther College and an online interactive textbook developed by one of the authors. We are a small team of about 6 active programmers who already do most of the work over the summer. 
+[Skulpt](http://skulpt.org) is a python compiler written in javascript. It's mainly used for educatiuonal purposes, it's being used by two universities, Rice and Luther College and an online interactive textbook developed by one of the authors. We are a small team of about 6 active programmers who already do most of the work over the summer. 
 
 The project administrators are: 
 
@@ -12,7 +12,7 @@ The project administrators are:
 
 ##Why?
 
-While skulpt is used mostly as a language/runtime for beginners. It's internals are a very good way to learn how compilers and run-time systems work. Students who would help us over the summer would definitelly learn a lot, as they are guided by a team that teaches the whole year through. Next to teaching students about compilers and open source software.  The work will also be beneficial to the project, as we are a small team and there are several interesting features that are waiting to be implemented.
+While skulpt is used mostly as a language/runtime for beginners. It's internals are a very good way to learn how compilers and run-time systems work. Students who would help us over the summer would definitely learn a lot, as they are guided by a team that teaches the whole year through. Next to teaching students about compilers and open source software.  The work will also be beneficial to the project, as we are a small team and there are several interesting features that are waiting to be implemented.  We also have a variety of open issues that would serve as get your feet wet type projects to help students get started.  These are all issues on our [github project page](http://github.com/skulpt/skulpt).
 
 Students would also be contributing to the efforts of computer science education.  To get an idea of how Skulpt is used in the education world check out these sites:
 
@@ -46,7 +46,7 @@ part of the standard library.
 
 ### Skills Required
 
-Each of the projects above will require that the student knows both Python and Javascript.  Students should also be familiar with github.
+Each of the projects above will require that the student knows both Python and Javascript.  Students should also be familiar with github. 
 
 
 ##Licence
