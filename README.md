@@ -14,11 +14,11 @@ The project administrators are:
 
 While skulpt is used mostly as a language/runtime for beginners. It's internals are a very good way to learn how compilers and run-time systems work. Students who would help us over the summer would definitelly learn a lot, as they are guided by a team that teaches the whole year through. Next to teaching students about compilers and open source software.  The work will also be beneficial to the project, as we are a small team and there are several interesting features that are waiting to be implemented.
 
-Students would also be contributing to the efforts of computer science education.  To get an idea of how Skulpt is used in the education world check out these two sites:
+Students would also be contributing to the efforts of computer science education.  To get an idea of how Skulpt is used in the education world check out these sites:
 
 * [interactivepython.org](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 * [codeskulptor.org](http://codeskulptor.org)  --  Used in Scott's Coursera course
-
+* [Geometry Zen](http://geometryzen.org)
 
 ## Ideas List
 
@@ -61,4 +61,5 @@ Each of the projects above will require that the student knows both Python and J
 * Brad Miller  (Luther College)
 * Scott Rixner (Rice University)
 * Albert-Jan Pieter Nijburg
+* David Holmes
 
