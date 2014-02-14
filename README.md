@@ -30,7 +30,7 @@ Students would also be contributing to the efforts of computer science education
 
 3. Do a better job of supporting Python3 semantics, but make
 Python2/Python3 behavior configurable with a single flag. Sk.python3 is
-already there for this purpose.
+already there for this purpose.  Another positive step in this direction would be to update our grammar to Python2.7.  Updating the grammar would allow us to add set literals, dictionary comprehensions, and other features present in 2.7.x and Python 3.3.x.  This would be an excellent project for a student interested in language design, parsing, and the use of abstract syntax trees.
 
 4. Make fully workable, and expand support for DOM access as
 part of the standard library.
